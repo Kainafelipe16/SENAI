@@ -1,0 +1,70 @@
+body {
+    margin: 1rem;
+    padding: 0;
+    box-sizing: border-box;
+    display: grid;
+    height: calc(100vw - 2rem);
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 80px 2fr 1fr 80px;
+    grid-template-areas:
+                "n n n n"
+                "a c c c"
+                "a cA cB cC"
+                "a f f f";
+    grid-gap: .5rem;
+}
+
+body * {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+nav {
+    background-color: gray;
+    grid-area: n;
+}
+
+aside {
+    background-color: rgb(0, 255, 136);
+    grid-area: a;
+}
+
+main {
+    background-color: aqua;
+    grid-area: c;
+}
+
+#cA {
+    background-color: darkslateblue;
+    grid-area: cA;
+}
+
+#cB {
+    background-color: blue;
+    grid-area: cB;
+}
+
+#cC {
+    background-color: burlywood;
+    grid-area: cC;
+}
+
+footer {
+    background-color: coral;
+    grid-area: f;
+}
+
+@media only screen and (max-witdh: 768px) {
+    body {
+        grid-template-columns: 1fr;
+        grid-template-rows: 60px 60px 2fr 1fr 1fr 1fr 60px;
+        grid-template-areas:
+        "n"
+        "a"
+        "c"
+        "cA"
+        "cB"
+        "cC"
+        "f";
+    }
+}

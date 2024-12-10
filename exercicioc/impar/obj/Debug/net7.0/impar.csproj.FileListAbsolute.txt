@@ -1,0 +1,15 @@
+C:\dev\exercicioc\impar\bin\Debug\net7.0\impar.exe
+C:\dev\exercicioc\impar\bin\Debug\net7.0\impar.deps.json
+C:\dev\exercicioc\impar\bin\Debug\net7.0\impar.runtimeconfig.json
+C:\dev\exercicioc\impar\bin\Debug\net7.0\impar.dll
+C:\dev\exercicioc\impar\bin\Debug\net7.0\impar.pdb
+C:\dev\exercicioc\impar\obj\Debug\net7.0\impar.csproj.AssemblyReference.cache
+C:\dev\exercicioc\impar\obj\Debug\net7.0\impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\impar\obj\Debug\net7.0\impar.AssemblyInfoInputs.cache
+C:\dev\exercicioc\impar\obj\Debug\net7.0\impar.AssemblyInfo.cs
+C:\dev\exercicioc\impar\obj\Debug\net7.0\impar.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\impar\obj\Debug\net7.0\impar.dll
+C:\dev\exercicioc\impar\obj\Debug\net7.0\refint\impar.dll
+C:\dev\exercicioc\impar\obj\Debug\net7.0\impar.pdb
+C:\dev\exercicioc\impar\obj\Debug\net7.0\impar.genruntimeconfig.cache
+C:\dev\exercicioc\impar\obj\Debug\net7.0\ref\impar.dll

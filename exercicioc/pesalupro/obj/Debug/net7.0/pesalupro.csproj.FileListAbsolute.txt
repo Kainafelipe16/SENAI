@@ -1,0 +1,15 @@
+C:\dev\exercicioc\pesalupro\bin\Debug\net7.0\pesalupro.exe
+C:\dev\exercicioc\pesalupro\bin\Debug\net7.0\pesalupro.deps.json
+C:\dev\exercicioc\pesalupro\bin\Debug\net7.0\pesalupro.runtimeconfig.json
+C:\dev\exercicioc\pesalupro\bin\Debug\net7.0\pesalupro.dll
+C:\dev\exercicioc\pesalupro\bin\Debug\net7.0\pesalupro.pdb
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\pesalupro.csproj.AssemblyReference.cache
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\pesalupro.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\pesalupro.AssemblyInfoInputs.cache
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\pesalupro.AssemblyInfo.cs
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\pesalupro.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\pesalupro.dll
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\refint\pesalupro.dll
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\pesalupro.pdb
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\pesalupro.genruntimeconfig.cache
+C:\dev\exercicioc\pesalupro\obj\Debug\net7.0\ref\pesalupro.dll

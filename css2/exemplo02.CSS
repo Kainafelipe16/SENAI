@@ -1,0 +1,27 @@
+html, body {
+    border: 0px;
+}
+
+div {
+    border: 1px solid black;
+    margin: 30px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+#div1 {
+    background-color: blue;
+}
+
+#div1:hover {
+    opacity: 0.5;
+}
+
+#div2 {
+    background-color: crimson;
+}
+
+#div3 {
+    background-color: yellow;
+}

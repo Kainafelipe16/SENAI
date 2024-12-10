@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+}
+
+nav.menu {
+    display: flex;
+    background-color: #D9D9D9;
+    height: 100px;
+}
+
+nav.menu > h6 {
+    
+    align-items: center;
+}
+
+nav.menu > i {
+    display: flex;
+    align-items: center;
+}
+
+
+nav.menu > div > input {
+    height: 30px;
+    border-radius: 15px;
+}

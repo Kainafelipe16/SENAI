@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Contador de Cliques</title>
+    </head>
+    <body>
+        <h1>Contador de Cliques</h1>
+        <button onclick="contar()">Clique em mim</button>
+        <button onclick="zerar()">Zerar o contador</button>
+        <section id="result">
+            <p>O cntador está com
+                <mark>0</mark> cliques.
+            </p>
+        </section>
+        <script type="text/javascript">
+var contador = 0;
+var res = document.querySelector('section#result')
+
+function contar(){
+    contador ++;
+    res.innerHTML = `<p>O contador está com <mark>${contador}</mark> cliques. </p>`
+}
+
+function zerar(){
+    contador = 0;
+    res.innerHTML = null;
+}
+        </script>
+    </body>
+</html>

@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.conteiner {
+    background-color: aquamarine;
+    width: 80vw;
+    height: 100vw;
+    margin: 0 auto;
+}
+
+.cabeçalho {
+    height: 120px;
+    background-color: aqua;
+}
+
+.corpo {
+    background-color: darkmagenta;
+    height: calc(100vw - 240px);
+    display: flex;
+}
+
+.menu {
+    background-color: blue;
+    width: 150px;
+    height: 100%;
+}
+
+.conteudo {
+    display: inline-block;
+    background-color:grey;
+    height: 100%;
+    width: calc(80vw - 150px);
+}
+
+.rodape {
+    background-color: aqua;
+    height: 120px;
+}

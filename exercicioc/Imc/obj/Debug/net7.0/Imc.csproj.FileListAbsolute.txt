@@ -1,0 +1,15 @@
+C:\dev\exercicioc\Imc\bin\Debug\net7.0\Imc.exe
+C:\dev\exercicioc\Imc\bin\Debug\net7.0\Imc.deps.json
+C:\dev\exercicioc\Imc\bin\Debug\net7.0\Imc.runtimeconfig.json
+C:\dev\exercicioc\Imc\bin\Debug\net7.0\Imc.dll
+C:\dev\exercicioc\Imc\bin\Debug\net7.0\Imc.pdb
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\Imc.csproj.AssemblyReference.cache
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\Imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\Imc.AssemblyInfoInputs.cache
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\Imc.AssemblyInfo.cs
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\Imc.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\Imc.dll
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\refint\Imc.dll
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\Imc.pdb
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\Imc.genruntimeconfig.cache
+C:\dev\exercicioc\Imc\obj\Debug\net7.0\ref\Imc.dll

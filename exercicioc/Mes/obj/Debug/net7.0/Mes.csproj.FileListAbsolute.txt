@@ -1,0 +1,15 @@
+C:\dev\exercicioc\Mes\bin\Debug\net7.0\Mes.exe
+C:\dev\exercicioc\Mes\bin\Debug\net7.0\Mes.deps.json
+C:\dev\exercicioc\Mes\bin\Debug\net7.0\Mes.runtimeconfig.json
+C:\dev\exercicioc\Mes\bin\Debug\net7.0\Mes.dll
+C:\dev\exercicioc\Mes\bin\Debug\net7.0\Mes.pdb
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\Mes.csproj.AssemblyReference.cache
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\Mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\Mes.AssemblyInfoInputs.cache
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\Mes.AssemblyInfo.cs
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\Mes.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\Mes.dll
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\refint\Mes.dll
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\Mes.pdb
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\Mes.genruntimeconfig.cache
+C:\dev\exercicioc\Mes\obj\Debug\net7.0\ref\Mes.dll

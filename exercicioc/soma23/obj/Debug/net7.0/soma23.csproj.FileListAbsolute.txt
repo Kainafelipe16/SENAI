@@ -1,0 +1,15 @@
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\soma23.csproj.AssemblyReference.cache
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\soma23.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\soma23.AssemblyInfoInputs.cache
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\soma23.AssemblyInfo.cs
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\soma23.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\soma23\bin\Debug\net7.0\soma23.exe
+C:\dev\exercicioc\soma23\bin\Debug\net7.0\soma23.deps.json
+C:\dev\exercicioc\soma23\bin\Debug\net7.0\soma23.runtimeconfig.json
+C:\dev\exercicioc\soma23\bin\Debug\net7.0\soma23.dll
+C:\dev\exercicioc\soma23\bin\Debug\net7.0\soma23.pdb
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\soma23.dll
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\refint\soma23.dll
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\soma23.pdb
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\soma23.genruntimeconfig.cache
+C:\dev\exercicioc\soma23\obj\Debug\net7.0\ref\soma23.dll

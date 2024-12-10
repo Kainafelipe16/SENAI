@@ -1,0 +1,15 @@
+C:\dev\exercicioc\idade\bin\Debug\net7.0\idade.exe
+C:\dev\exercicioc\idade\bin\Debug\net7.0\idade.deps.json
+C:\dev\exercicioc\idade\bin\Debug\net7.0\idade.runtimeconfig.json
+C:\dev\exercicioc\idade\bin\Debug\net7.0\idade.dll
+C:\dev\exercicioc\idade\bin\Debug\net7.0\idade.pdb
+C:\dev\exercicioc\idade\obj\Debug\net7.0\idade.csproj.AssemblyReference.cache
+C:\dev\exercicioc\idade\obj\Debug\net7.0\idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\idade\obj\Debug\net7.0\idade.AssemblyInfoInputs.cache
+C:\dev\exercicioc\idade\obj\Debug\net7.0\idade.AssemblyInfo.cs
+C:\dev\exercicioc\idade\obj\Debug\net7.0\idade.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\idade\obj\Debug\net7.0\idade.dll
+C:\dev\exercicioc\idade\obj\Debug\net7.0\refint\idade.dll
+C:\dev\exercicioc\idade\obj\Debug\net7.0\idade.pdb
+C:\dev\exercicioc\idade\obj\Debug\net7.0\idade.genruntimeconfig.cache
+C:\dev\exercicioc\idade\obj\Debug\net7.0\ref\idade.dll

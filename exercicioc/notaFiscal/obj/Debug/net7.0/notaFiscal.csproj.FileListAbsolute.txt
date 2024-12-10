@@ -1,0 +1,15 @@
+C:\dev\exercicioc\notaFiscal\bin\Debug\net7.0\notaFiscal.exe
+C:\dev\exercicioc\notaFiscal\bin\Debug\net7.0\notaFiscal.deps.json
+C:\dev\exercicioc\notaFiscal\bin\Debug\net7.0\notaFiscal.runtimeconfig.json
+C:\dev\exercicioc\notaFiscal\bin\Debug\net7.0\notaFiscal.dll
+C:\dev\exercicioc\notaFiscal\bin\Debug\net7.0\notaFiscal.pdb
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\notaFiscal.csproj.AssemblyReference.cache
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\notaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\notaFiscal.AssemblyInfoInputs.cache
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\notaFiscal.AssemblyInfo.cs
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\notaFiscal.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\notaFiscal.dll
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\refint\notaFiscal.dll
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\notaFiscal.pdb
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\notaFiscal.genruntimeconfig.cache
+C:\dev\exercicioc\notaFiscal\obj\Debug\net7.0\ref\notaFiscal.dll

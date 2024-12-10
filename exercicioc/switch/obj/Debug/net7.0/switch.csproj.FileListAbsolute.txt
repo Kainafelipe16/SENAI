@@ -1,0 +1,15 @@
+C:\dev\exercicioc\switch\obj\Debug\net7.0\switch.csproj.AssemblyReference.cache
+C:\dev\exercicioc\switch\obj\Debug\net7.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\switch\obj\Debug\net7.0\switch.AssemblyInfoInputs.cache
+C:\dev\exercicioc\switch\obj\Debug\net7.0\switch.AssemblyInfo.cs
+C:\dev\exercicioc\switch\obj\Debug\net7.0\switch.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\switch\bin\Debug\net7.0\switch.exe
+C:\dev\exercicioc\switch\bin\Debug\net7.0\switch.deps.json
+C:\dev\exercicioc\switch\bin\Debug\net7.0\switch.runtimeconfig.json
+C:\dev\exercicioc\switch\bin\Debug\net7.0\switch.dll
+C:\dev\exercicioc\switch\bin\Debug\net7.0\switch.pdb
+C:\dev\exercicioc\switch\obj\Debug\net7.0\switch.dll
+C:\dev\exercicioc\switch\obj\Debug\net7.0\refint\switch.dll
+C:\dev\exercicioc\switch\obj\Debug\net7.0\switch.pdb
+C:\dev\exercicioc\switch\obj\Debug\net7.0\switch.genruntimeconfig.cache
+C:\dev\exercicioc\switch\obj\Debug\net7.0\ref\switch.dll

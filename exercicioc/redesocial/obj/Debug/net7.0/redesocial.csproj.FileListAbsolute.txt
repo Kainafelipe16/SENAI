@@ -1,0 +1,5 @@
+C:\dev\exercicioc\redesocial\obj\Debug\net7.0\redesocial.csproj.AssemblyReference.cache
+C:\dev\exercicioc\redesocial\obj\Debug\net7.0\redesocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\redesocial\obj\Debug\net7.0\redesocial.AssemblyInfoInputs.cache
+C:\dev\exercicioc\redesocial\obj\Debug\net7.0\redesocial.AssemblyInfo.cs
+C:\dev\exercicioc\redesocial\obj\Debug\net7.0\redesocial.csproj.CoreCompileInputs.cache

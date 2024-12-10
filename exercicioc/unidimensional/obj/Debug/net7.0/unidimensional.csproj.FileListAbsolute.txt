@@ -1,0 +1,15 @@
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\unidimensional.csproj.AssemblyReference.cache
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\unidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\unidimensional.AssemblyInfoInputs.cache
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\unidimensional.AssemblyInfo.cs
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\unidimensional.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\unidimensional\bin\Debug\net7.0\unidimensional.exe
+C:\dev\exercicioc\unidimensional\bin\Debug\net7.0\unidimensional.deps.json
+C:\dev\exercicioc\unidimensional\bin\Debug\net7.0\unidimensional.runtimeconfig.json
+C:\dev\exercicioc\unidimensional\bin\Debug\net7.0\unidimensional.dll
+C:\dev\exercicioc\unidimensional\bin\Debug\net7.0\unidimensional.pdb
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\unidimensional.dll
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\refint\unidimensional.dll
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\unidimensional.pdb
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\unidimensional.genruntimeconfig.cache
+C:\dev\exercicioc\unidimensional\obj\Debug\net7.0\ref\unidimensional.dll

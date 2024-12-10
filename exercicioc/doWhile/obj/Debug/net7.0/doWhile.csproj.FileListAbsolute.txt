@@ -1,0 +1,15 @@
+C:\dev\exercicioc\doWhile\bin\Debug\net7.0\doWhile.exe
+C:\dev\exercicioc\doWhile\bin\Debug\net7.0\doWhile.deps.json
+C:\dev\exercicioc\doWhile\bin\Debug\net7.0\doWhile.runtimeconfig.json
+C:\dev\exercicioc\doWhile\bin\Debug\net7.0\doWhile.dll
+C:\dev\exercicioc\doWhile\bin\Debug\net7.0\doWhile.pdb
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\doWhile.csproj.AssemblyReference.cache
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\doWhile.AssemblyInfoInputs.cache
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\doWhile.AssemblyInfo.cs
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\doWhile.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\doWhile.dll
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\refint\doWhile.dll
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\doWhile.pdb
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\doWhile.genruntimeconfig.cache
+C:\dev\exercicioc\doWhile\obj\Debug\net7.0\ref\doWhile.dll

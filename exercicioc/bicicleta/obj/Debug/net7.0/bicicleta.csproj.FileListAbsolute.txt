@@ -1,0 +1,15 @@
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\bicicleta.csproj.AssemblyReference.cache
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\bicicleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\bicicleta.AssemblyInfoInputs.cache
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\bicicleta.AssemblyInfo.cs
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\bicicleta.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\bicicleta\bin\Debug\net7.0\bicicleta.exe
+C:\dev\exercicioc\bicicleta\bin\Debug\net7.0\bicicleta.deps.json
+C:\dev\exercicioc\bicicleta\bin\Debug\net7.0\bicicleta.runtimeconfig.json
+C:\dev\exercicioc\bicicleta\bin\Debug\net7.0\bicicleta.dll
+C:\dev\exercicioc\bicicleta\bin\Debug\net7.0\bicicleta.pdb
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\bicicleta.dll
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\refint\bicicleta.dll
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\bicicleta.pdb
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\bicicleta.genruntimeconfig.cache
+C:\dev\exercicioc\bicicleta\obj\Debug\net7.0\ref\bicicleta.dll

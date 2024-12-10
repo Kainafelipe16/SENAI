@@ -1,0 +1,15 @@
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\multidimensional.csproj.AssemblyReference.cache
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\multidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\multidimensional.AssemblyInfoInputs.cache
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\multidimensional.AssemblyInfo.cs
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\multidimensional.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\multidimensional\bin\Debug\net7.0\multidimensional.exe
+C:\dev\exercicioc\multidimensional\bin\Debug\net7.0\multidimensional.deps.json
+C:\dev\exercicioc\multidimensional\bin\Debug\net7.0\multidimensional.runtimeconfig.json
+C:\dev\exercicioc\multidimensional\bin\Debug\net7.0\multidimensional.dll
+C:\dev\exercicioc\multidimensional\bin\Debug\net7.0\multidimensional.pdb
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\multidimensional.dll
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\refint\multidimensional.dll
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\multidimensional.pdb
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\multidimensional.genruntimeconfig.cache
+C:\dev\exercicioc\multidimensional\obj\Debug\net7.0\ref\multidimensional.dll

@@ -1,0 +1,15 @@
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\MaiorMenor.csproj.AssemblyReference.cache
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\MaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\MaiorMenor.AssemblyInfoInputs.cache
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\MaiorMenor.AssemblyInfo.cs
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\MaiorMenor.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\MaiorMenor\bin\Debug\net7.0\MaiorMenor.exe
+C:\dev\exercicioc\MaiorMenor\bin\Debug\net7.0\MaiorMenor.deps.json
+C:\dev\exercicioc\MaiorMenor\bin\Debug\net7.0\MaiorMenor.runtimeconfig.json
+C:\dev\exercicioc\MaiorMenor\bin\Debug\net7.0\MaiorMenor.dll
+C:\dev\exercicioc\MaiorMenor\bin\Debug\net7.0\MaiorMenor.pdb
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\MaiorMenor.dll
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\refint\MaiorMenor.dll
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\MaiorMenor.pdb
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\MaiorMenor.genruntimeconfig.cache
+C:\dev\exercicioc\MaiorMenor\obj\Debug\net7.0\ref\MaiorMenor.dll

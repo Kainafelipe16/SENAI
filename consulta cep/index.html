@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>Consulta CEP</title>
+</head>
+<body>
+    <div class="container col-4 p-4">
+        <form>
+            <div class="frm-group">
+              <label>CEP</label>
+              <input type="number" id="cep" class="form-control"/>
+            </div>
+           
+             <div class="frm-group">
+                <label>Rua</label>
+                <input type="text" id="rua" class="form-control" disabled/>
+              </div>
+             
+              <div class="frm-group">
+                <label>Bairro</label>
+                <input type="text" id="bairro" class="form-control" disabled/>
+              </div>
+             
+              <div class="frm-group">
+                <label>Cidade</label>
+                <input type="text" id="cidade" class="form-control" disabled/>
+              </div>
+             
+              <div class="frm-group">
+                <label>Estado</label>
+                <input type="text" id="estado" class="form-control" disabled/>
+              </div>
+          </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
